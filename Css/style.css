@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+.container
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;    
+    font-family: 'Montserrat', sans-serif;
+}
+h2
+{
+    font-size:30px;
+    text-transform: uppercase;
+    color: dimgray;
+    text-align: center;
+}
+.ilkbaslık
+{
+    color:white;
+    font-size:50px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    background-color: brown;
+    text-align: center;
+}
+nav 
+{
+    text-align: left;   
+}
+nav a
+{
+    text-decoration: none;
+    color: brown;
+    font-size: 20px;
+    display: inline-block;
+    font-weight: 600;
+}
+nav ul li 
+{
+    list-style-type: none;
+    
+}
+img
+{
+    height: 400px;
+    width:700px;
+}
+.iletisim p
+{
+    text-align:left;
+}
+.adres a
+{
+    text-decoration: none;
+    color: black;
+}
+.adres
+{
+  list-style-type: none;
+  text-align: left;
+}
+footer
+{
+    background-color:brown;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
